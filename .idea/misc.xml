@@ -6,10 +6,10 @@
         <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.228" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2586050724637681" />
         <entry key="app/src/main/res/layout/fragment_assistants.xml" value="0.2586050724637681" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1640625" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3151041666666667" />
         <entry key="app/src/main/res/layout/fragment_scrolling.xml" value="0.2586050724637681" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.3223958333333333" />
-        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.2586050724637681" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.3223958333333333" />
       </map>
     </option>
   </component>
